@@ -37,8 +37,8 @@ const Home: NextPage = () => {
         <meta property="og:site_name" content="kthksgy" />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="kthksgy" />
-        <meta name="twitter:creator" content="kthksgy" />
+        <meta name="twitter:site" content="@kthksgy" />
+        <meta name="twitter:creator" content="@kthksgy" />
 
         <meta property="fb:app_id" content="582586216303936" />
       </Head>
